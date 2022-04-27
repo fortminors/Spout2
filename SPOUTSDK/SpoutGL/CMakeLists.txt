@@ -25,6 +25,7 @@ set(SpoutSources
   SpoutSenderNames.h
   SpoutSharedMemory.h
   SpoutUtils.h
+  SpoutDX.h
   Spout.cpp
   SpoutCopy.cpp
   SpoutDirectX.cpp
@@ -36,6 +37,7 @@ set(SpoutSources
   SpoutSenderNames.cpp
   SpoutSharedMemory.cpp
   SpoutUtils.cpp
+  SpoutDX.cpp
 )
 
 set(SpoutLink
